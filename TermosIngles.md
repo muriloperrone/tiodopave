@@ -5,4 +5,6 @@ The sandal is going to sing | A chinela vai cantar
 Beautiful thing of the father | Coisa linda do pai
 I will break your branch | Vou quebrar o teu galho
 Don't come that it doesn't have | Não vem que não tem
+Hot asked | Quente Perguntou
+Nobody yes door | Ninguém sim porta
 ```
